@@ -1,0 +1,7 @@
+D:\REPO-K VISUAL STUDIOBAN\while ciklus test 1\while_ciklus_gyak1\bin\Debug\while_ciklus_gyak1.exe.config
+D:\REPO-K VISUAL STUDIOBAN\while ciklus test 1\while_ciklus_gyak1\bin\Debug\while_ciklus_gyak1.exe
+D:\REPO-K VISUAL STUDIOBAN\while ciklus test 1\while_ciklus_gyak1\bin\Debug\while_ciklus_gyak1.pdb
+D:\REPO-K VISUAL STUDIOBAN\while ciklus test 1\while_ciklus_gyak1\obj\Debug\while_ciklus_gyak1.csproj.AssemblyReference.cache
+D:\REPO-K VISUAL STUDIOBAN\while ciklus test 1\while_ciklus_gyak1\obj\Debug\while_ciklus_gyak1.csproj.CoreCompileInputs.cache
+D:\REPO-K VISUAL STUDIOBAN\while ciklus test 1\while_ciklus_gyak1\obj\Debug\while_ciklus_gyak1.exe
+D:\REPO-K VISUAL STUDIOBAN\while ciklus test 1\while_ciklus_gyak1\obj\Debug\while_ciklus_gyak1.pdb
